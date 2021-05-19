@@ -1,4 +1,4 @@
-# Emoji In URL
+# Prime Number In C
 
 The Project Is About How We Can Find That The Number Entered By User Is A Prime Number Or Not A Prime Number.
 
